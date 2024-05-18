@@ -2642,6 +2642,13 @@
 			  "posY": 149,
 			  "width": 128,
 			  "height": 128
+			},
+			{
+			  "path": "rui/flowstate_custom/mkos/controller",
+			  "posX": 17,
+			  "posY": 502,
+			  "width": 84,
+			  "height": 65
 			}
 		  ]
 		},
