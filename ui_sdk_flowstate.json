@@ -10,6 +10,10 @@
   "files": [
 		{
 		  "$type": "txtr",
+		  "path": "texture/flowstate_s0_title_art"
+		},
+		{
+		  "$type": "txtr",
 		  "path": "texture/flowstatelocations"
 		},
 		{
@@ -32,6 +36,20 @@
 		  "$type": "txtr",
 		  "path": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
 		},
+		{
+		  "$type": "uimg",
+		  "path": "flowstate_s0_title_art",
+		  "atlas": "texture/flowstate_s0_title_art",
+			"textures": [
+			  {
+				"path": "ui/menu/title_screen/title_art2",
+				"posX": 0,
+				"posY": 0,
+				"width": 3524,
+				"height": 2160
+			  }
+			]
+		},	  
 		{
 		  "$type": "uimg",
 		  "path": "flowstatelocations",
@@ -879,6 +897,27 @@
 			},	
 			{
 			  "path": "rui/rui_screens/banner_l",
+			  "posX": 2600,
+			  "posY": 679,
+			  "width": 578,
+			  "height": 1344
+			},
+			{
+			  "path": "rui/rui_screens/banner_c_shadowfall",
+			  "posX": 1336,
+			  "posY": 671,
+			  "width": 578,
+			  "height": 1344
+			},
+			{
+			  "path": "rui/rui_screens/banner_r_shadowfall",
+			  "posX": 1958,
+			  "posY": 675,
+			  "width": 578,
+			  "height": 1344
+			},	
+			{
+			  "path": "rui/rui_screens/banner_l_shadowfall",
 			  "posX": 2600,
 			  "posY": 679,
 			  "width": 578,
