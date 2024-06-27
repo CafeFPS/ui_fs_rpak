@@ -2830,6 +2830,27 @@
           "height": 1080
         }
       ]
+    },
+	{
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/world/flowstate1v1_banners",
+      "atlas": "texture/ui_atlas/rui/world/flowstate1v1_banners",
+      "textures": [
+        {
+          "path": "rui/world/flowstate1v1_banner01",
+          "posX": 0,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/world/flowstate1v1_banner02",
+          "posX": 1920,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
     }
   ]
 }
