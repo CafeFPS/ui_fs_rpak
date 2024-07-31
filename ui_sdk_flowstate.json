@@ -2849,6 +2849,13 @@
           "posY": 0,
           "width": 1920,
           "height": 1080
+        },
+        {
+          "path": "rui/world/flowstate1v1_rdiffs",
+          "posX": 36,
+          "posY": 1242,
+          "width": 2560,
+          "height": 1440
         }
       ]
     }
