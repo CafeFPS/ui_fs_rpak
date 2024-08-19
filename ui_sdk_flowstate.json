@@ -355,6 +355,90 @@
 				"posY": 8,
 				"width": 1920,
 				"height": 1080
+			  }, //asd
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_coffee",
+				"posX": 112,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_orchid",
+				"posX": 380,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_condor",
+				"posX": 647,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_coffee",
+				"posX": 913,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_orchid",
+				"posX": 1449,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_condor",
+				"posX": 1183,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_score_1",
+				"posX": 1713,
+				"posY": 2084,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_score_2",
+				"posX": 1451,
+				"posY": 2322,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/local_score_3",
+				"posX": 1183,
+				"posY": 2322,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_score_1",
+				"posX": 913,
+				"posY": 2321,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_score_2",
+				"posX": 645,
+				"posY": 2320,
+				"width": 250,
+				"height": 227
+			  },
+			  {
+				"path": "rui/flowstatecustom/winterexpress/enemy_score_3",
+				"posX": 381,
+				"posY": 2326,
+				"width": 250,
+				"height": 227
 			  }
 			]
 		},
