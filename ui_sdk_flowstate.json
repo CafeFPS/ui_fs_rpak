@@ -2940,6 +2940,20 @@
           "posY": 1242,
           "width": 2560,
           "height": 1440
+        },
+        {
+          "path": "rui/world/flowstate1v1_banner03",
+          "posX": 4032,
+          "posY": 33,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/world/karma_banner_01",
+          "posX": 75,
+          "posY": 2648,
+          "width": 2257,
+          "height": 1434
         }
       ]
     }
