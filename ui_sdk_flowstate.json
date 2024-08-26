@@ -56,6 +56,13 @@
 		  "atlas": "texture/flowstatelocations",
 			"textures": [
 			  {
+				"path": "rui/hud/gamestate/spectate_icon",
+				"posX": 1754,
+				"posY": 2449,
+				"width": 120,
+				"height": 72
+			  },
+			  {
 				"path": "rui/flowstatelocations/halomod_thepit",
 				"posX": 4152,
 				"posY": 1096,
