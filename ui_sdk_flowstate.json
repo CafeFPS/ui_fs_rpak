@@ -56,6 +56,27 @@
 		  "atlas": "texture/flowstatelocations",
 			"textures": [
 			  {
+				"path": "rui/hud/rhapsody",
+				"posX": 2641,
+				"posY": 2213,
+				"width": 640,
+				"height": 320
+			  },
+			  {
+				"path": "rui/hud/rhapsody/tac",
+				"posX": 2009,
+				"posY": 2365,
+				"width": 150,
+				"height": 150
+			  },
+			  {
+				"path": "rui/hud/rhapsody/ult",
+				"posX": 2256,
+				"posY": 2369,
+				"width": 150,
+				"height": 150
+			  },
+			  {
 				"path": "rui/hud/gamestate/spectate_icon",
 				"posX": 1754,
 				"posY": 2449,
