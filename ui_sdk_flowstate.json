@@ -2954,6 +2954,13 @@
           "posY": 33,
           "width": 1920,
           "height": 1080
+        },
+		{
+          "path": "rui/world/flowstate1v1_banner02",
+          "posX": 1920,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
         }
       ]
     }
