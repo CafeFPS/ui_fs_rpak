@@ -2949,39 +2949,11 @@
       "atlas": "texture/ui_atlas/rui/world/flowstate1v1_banners",
       "textures": [
         {
-          "path": "rui/world/flowstate1v1_banner01",
-          "posX": 0,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/world/flowstate1v1_banner02",
-          "posX": 1920,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/world/flowstate1v1_rdiffs",
-          "posX": 36,
-          "posY": 1242,
-          "width": 2560,
-          "height": 1440
-        },
-        {
           "path": "rui/world/flowstate1v1_banner03",
           "posX": 4032,
           "posY": 33,
           "width": 1920,
           "height": 1080
-        },
-        {
-          "path": "rui/world/karma_banner_01",
-          "posX": 75,
-          "posY": 2648,
-          "width": 2257,
-          "height": 1434
         }
       ]
     }
