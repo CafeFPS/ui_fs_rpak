@@ -2948,6 +2948,13 @@
       "path": "ui_image_atlas/rui/world/flowstate1v1_banners",
       "atlas": "texture/ui_atlas/rui/world/flowstate1v1_banners",
       "textures": [
+		{
+          "path": "rui/world/flowstate1v1_banner02",
+          "posX": 1920,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
         {
           "path": "rui/world/flowstate1v1_banner03",
           "posX": 4032,
@@ -2956,9 +2963,9 @@
           "height": 1080
         },
 		{
-          "path": "rui/world/flowstate1v1_banner02",
-          "posX": 1920,
-          "posY": 0,
+          "path": "rui/world/flowstate1v1_banner04",
+          "posX": 2874,
+          "posY": 1339,
           "width": 1920,
           "height": 1080
         }
