@@ -1443,6 +1443,20 @@
 					
 			"textures": [
 			  {
+				"path": "rui/customemotes/einstein",
+				"posX": 6284,
+				"posY": 5754,
+				"width": 512,
+				"height": 512
+			  },
+			  {
+				"path": "rui/customemotes/ida",
+				"posX": 6282,
+				"posY": 5226,
+				"width": 512,
+				"height": 512
+			  },
+			  {
 				"path": "rui/customemotes/nahidwinholo",
 				"posX": 6277,
 				"posY": 4706,
