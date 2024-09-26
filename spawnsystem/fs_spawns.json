@@ -39,10 +39,6 @@
 		{
             "$type": "dtbl",
             "path": "datatable/fs_spawns_fs_1v1_mp_rr_aqueduct_set_3"
-        },
-		{
-            "$type": "dtbl",
-            "path": "datatable/flowstate_audio"
         }
     ]
 }
