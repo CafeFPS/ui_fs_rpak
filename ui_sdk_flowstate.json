@@ -11,7 +11,7 @@
 		{
 		  "$type": "txtr",
 		  "path": "texture/flowstate_s0_title_art"
-		},
+		}, 
 		{
 		  "$type": "txtr",
 		  "path": "texture/flowstatelocations"
@@ -2954,6 +2954,20 @@
           "posY": 3240,
           "width": 1920,
           "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2",
+          "posX": 3844,
+          "posY": 3245,
+          "width": 1368,
+          "height": 768
+        },
+		{
+          "path": "rui/menu/maps/mp_rr_phase_runner",
+          "posX": 5227,
+          "posY": 3248,
+          "width": 1368,
+          "height": 768
         }
       ]
     },
