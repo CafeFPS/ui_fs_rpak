@@ -1211,6 +1211,13 @@
 			  "height": 256
 			},
 			{
+			  "path": "rui/flowstatecustom/cafesinstagib",
+			  "posX": 2911,
+			  "posY": 2067,
+			  "width": 256,
+			  "height": 256
+			},
+			{
 			  "path": "rui/flowstatecustom/generic_ltm",
 			  "posX": 3631,
 			  "posY": 1566,
