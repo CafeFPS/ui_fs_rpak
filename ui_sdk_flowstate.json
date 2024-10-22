@@ -1219,17 +1219,10 @@
 			},
 			{
 			  "path": "rui/flowstatecustom/generic_ltm",
-			  "posX": 3631,
-			  "posY": 1566,
-			  "width": 260,
-			  "height": 257
-			},
-			{
-			  "path": "rui/flowstatecustom/hiswattson_ltms",
-			  "posX": 3352,
-			  "posY": 2208,
-			  "width": 256,
-			  "height": 256
+			  "posX": 3349,
+			  "posY": 1559,
+			  "width": 275,
+			  "height": 268
 			},
 			{
 			  "path": "rui/flowstatecustom/overshield_info_box",
