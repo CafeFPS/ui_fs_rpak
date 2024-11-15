@@ -1,0 +1,11 @@
+origin,angles,info
+"< 0, 0, 0 >","< 0, 0, 0>" ,   "pakData.playlist:fs_1v1"
+"< 0, 0, 0 >","< 0, 0, 0>" ,   "pakData.map:mp_rr_aqueduct"
+"< 0, 0, 0 >","< 0, 0, 0>" ,   "pakData.spawnsCount:4"
+"< 0, 0, 0 >","< 0, 0, 0>" ,   "pakData.teamCount:2"
+"< 0, 0, 0 >","< 0, 0, 0>" ,   "pakData.devAutoSave:false"
+"< 3940.73, -4859.38, 272.031>","< 359.705, 103.901, 0>"  ,   "longrange"
+"< 3663.15, -3382.43, 272.031>","< 356.886, 281.336, 0>"  ,   "longrange"
+"< 2682.96, -3645.45, 272.031>","< 353.573, 198.269, 0>"  ,   "mans house"
+"< 2570, -4174.05, 272.031>","< 359.737, 87.3244, 0>"  ,   "mans house"
+vector,vector,string
