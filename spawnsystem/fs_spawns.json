@@ -38,14 +38,6 @@
         },
 		{
             "$type": "dtbl",
-            "path": "datatable/fs_spawns_fs_1v1_mp_rr_aqueduct_set_3"
-        },
-		{
-            "$type": "dtbl",
-            "path": "datatable/fs_spawns_fs_1v1_mp_rr_aqueduct_set_4"
-        },
-		{
-            "$type": "dtbl",
             "path": "datatable/flowstate_audio"
         },
 		{
@@ -55,6 +47,11 @@
 		{
             "$type": "dtbl",
             "path": "datatable/fs_spawns_fs_scenarios_mp_rr_desertlands_64k_x_64k_set_2"
+        },
+		{
+            "$type": "dtbl",
+            "path": "datatable/fs_spawns_fs_1v1_mp_rr_olympus_mu1_set_1"
         }
+
     ]
 }
