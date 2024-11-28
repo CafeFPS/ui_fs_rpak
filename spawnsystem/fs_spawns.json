@@ -51,7 +51,10 @@
 		{
             "$type": "dtbl",
             "path": "datatable/fs_spawns_fs_1v1_mp_rr_olympus_mu1_set_1"
+        },
+		{
+            "$type": "dtbl",
+            "path": "datatable/fs_spawns_fs_dm_mp_rr_desertlands_64k_x_64k_set_1"
         }
-
     ]
 }
