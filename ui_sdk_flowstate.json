@@ -37,6 +37,10 @@
 		  "path": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
 		},
 		{
+		  "$type": "txtr",
+		  "path": "texture/ui_atlas/nextbots/atlas"
+		},
+		{
 		  "$type": "uimg",
 		  "path": "flowstate_s0_title_art",
 		  "atlas": "texture/flowstate_s0_title_art",
@@ -3004,7 +3008,162 @@
           "width": 1920,
           "height": 1080
         }
+,
+		{
+          "path": "rui/nextbots/thomas",
+          "posX": 88,
+          "posY": 1133,
+          "width": 332,
+          "height": 470
+        }
       ]
-    }
+    },
+	{
+	  "$type": "uimg",
+	  "path": "ui_image_atlas/nextbots",
+	  "atlas": "texture/ui_atlas/nextbots/atlas",
+	  "textures": [
+		{
+		  "path": "nextbots/9",
+		  "posX": 0,
+		  "posY": 0,
+		  "width": 468,
+		  "height": 597
+		},
+		{
+		  "path": "nextbots/14",
+		  "posX": 0,
+		  "posY": 597,
+		  "width": 400,
+		  "height": 568
+		},
+		{
+		  "path": "nextbots/5",
+		  "posX": 0,
+		  "posY": 1165,
+		  "width": 449,
+		  "height": 563
+		},
+		{
+		  "path": "nextbots/13",
+		  "posX": 400,
+		  "posY": 597,
+		  "width": 540,
+		  "height": 550
+		},
+		{
+		  "path": "nextbots/19",
+		  "posX": 468,
+		  "posY": 0,
+		  "width": 388,
+		  "height": 505
+		},
+		{
+		  "path": "nextbots/15",
+		  "posX": 856,
+		  "posY": 0,
+		  "width": 400,
+		  "height": 501
+		},
+		{
+		  "path": "nextbots/8",
+		  "posX": 0,
+		  "posY": 1728,
+		  "width": 411,
+		  "height": 493
+		},
+		{
+		  "path": "nextbots/7",
+		  "posX": 0,
+		  "posY": 2221,
+		  "width": 360,
+		  "height": 487
+		},
+		{
+		  "path": "nextbots/12",
+		  "posX": 0,
+		  "posY": 2708,
+		  "width": 354,
+		  "height": 478
+		},
+		{
+		  "path": "nextbots/6",
+		  "posX": 0,
+		  "posY": 3186,
+		  "width": 478,
+		  "height": 474
+		},
+		{
+		  "path": "nextbots/16",
+		  "posX": 354,
+		  "posY": 2708,
+		  "width": 400,
+		  "height": 472
+		},
+		{
+		  "path": "nextbots/4",
+		  "posX": 360,
+		  "posY": 2221,
+		  "width": 512,
+		  "height": 446
+		},
+		{
+		  "path": "nextbots/2",
+		  "posX": 411,
+		  "posY": 1728,
+		  "width": 353,
+		  "height": 442
+		},
+		{
+		  "path": "nextbots/11",
+		  "posX": 754,
+		  "posY": 2667,
+		  "width": 446,
+		  "height": 441
+		},
+		{
+		  "path": "nextbots/1",
+		  "posX": 1200,
+		  "posY": 2667,
+		  "width": 413,
+		  "height": 413
+		},
+		{
+		  "path": "nextbots/20",
+		  "posX": 449,
+		  "posY": 1147,
+		  "width": 397,
+		  "height": 397
+		},
+		{
+		  "path": "nextbots/10",
+		  "posX": 0,
+		  "posY": 3660,
+		  "width": 522,
+		  "height": 396
+		},
+		{
+		  "path": "nextbots/17",
+		  "posX": 478,
+		  "posY": 3180,
+		  "width": 400,
+		  "height": 376
+		},
+		{
+		  "path": "nextbots/3",
+		  "posX": 764,
+		  "posY": 1544,
+		  "width": 495,
+		  "height": 361
+		},
+		{
+		  "path": "nextbots/18",
+		  "posX": 764,
+		  "posY": 1905,
+		  "width": 291,
+		  "height": 291
+		}
+	  ]
+	}
   ]
 }
