@@ -3007,14 +3007,34 @@
           "posY": 1339,
           "width": 1920,
           "height": 1080
-        }
-,
+        },
 		{
-          "path": "rui/nextbots/thomas",
-          "posX": 88,
-          "posY": 1133,
-          "width": 332,
-          "height": 470
+          "path": "rui/1v1coaching/poster",
+          "posX": 78,
+          "posY": 1553,
+          "width": 2160,
+          "height": 2700
+        },
+		{
+          "path": "rui/halo/plasma",
+          "posX": 2377,
+          "posY": 3694,
+          "width": 512,
+          "height": 512
+        },
+		{
+          "path": "rui/halo/frag",
+          "posX": 3068,
+          "posY": 3678,
+          "width": 512,
+          "height": 512
+        },
+		{
+          "path": "rui/hiswattson/ltm",
+          "posX": 3797,
+          "posY": 3669,
+          "width": 512,
+          "height": 512
         }
       ]
     },
