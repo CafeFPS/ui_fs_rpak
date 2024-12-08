@@ -3,6 +3,7 @@
     "assetsDir": "depot/",
     "outputDir": "output/",
     "version": 8,
+  "$mapversion": 1,
 	
 	"name": "fs_spawns",
 	
@@ -44,13 +45,13 @@
             "$type": "dtbl",
             "path": "datatable/fs_spawns_fs_scenarios_mp_rr_desertlands_64k_x_64k_set_1"
         },
-		{
+	{
             "$type": "dtbl",
-            "path": "datatable/fs_spawns_fs_scenarios_mp_rr_desertlands_64k_x_64k_set_2"
+            "path": "datatable/fs_spawns_fs_1v1_mp_rr_olympus_mu1_set_1"
         },
 		{
             "$type": "dtbl",
-            "path": "datatable/fs_spawns_fs_1v1_mp_rr_olympus_mu1_set_1"
+            "path": "datatable/fs_spawns_fs_1v1_mp_rr_desertlands_64k_x_64k_set_1"
         },
 		{
             "$type": "dtbl",
