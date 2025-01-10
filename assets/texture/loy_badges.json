@@ -1,0 +1,672 @@
+{
+  "$type": "uimg",
+  "path": "ui_image_atlas/ui/atlas/rui/loy_badges",
+  "atlas": "ui/atlas/rui/loy_badges",
+  "textures": [
+    {
+      "path": "rui/loybadges/_a_frm0",
+      "posX": 0,
+      "posY": 0,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm1",
+      "posX": 0,
+      "posY": 150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm2",
+      "posX": 0,
+      "posY": 1800,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm3",
+      "posX": 0,
+      "posY": 3450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm4",
+      "posX": 150,
+      "posY": 900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm5",
+      "posX": 150,
+      "posY": 2550,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm6",
+      "posX": 300,
+      "posY": 0,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm7",
+      "posX": 300,
+      "posY": 1650,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm8",
+      "posX": 300,
+      "posY": 3300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm9",
+      "posX": 450,
+      "posY": 750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm10",
+      "posX": 0,
+      "posY": 300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm11",
+      "posX": 0,
+      "posY": 450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm12",
+      "posX": 0,
+      "posY": 600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm13",
+      "posX": 0,
+      "posY": 750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm14",
+      "posX": 0,
+      "posY": 900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm15",
+      "posX": 0,
+      "posY": 1050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm16",
+      "posX": 0,
+      "posY": 1200,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm17",
+      "posX": 0,
+      "posY": 1350,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm18",
+      "posX": 0,
+      "posY": 1500,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm19",
+      "posX": 0,
+      "posY": 1650,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm20",
+      "posX": 0,
+      "posY": 1950,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm21",
+      "posX": 0,
+      "posY": 2100,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm22",
+      "posX": 0,
+      "posY": 2250,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm23",
+      "posX": 0,
+      "posY": 2400,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm24",
+      "posX": 0,
+      "posY": 2550,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm25",
+      "posX": 0,
+      "posY": 2700,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm26",
+      "posX": 0,
+      "posY": 2850,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm27",
+      "posX": 0,
+      "posY": 3000,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm28",
+      "posX": 0,
+      "posY": 3150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm29",
+      "posX": 0,
+      "posY": 3300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm30",
+      "posX": 0,
+      "posY": 3600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm31",
+      "posX": 0,
+      "posY": 3750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm32",
+      "posX": 0,
+      "posY": 3900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm33",
+      "posX": 0,
+      "posY": 4050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm34",
+      "posX": 150,
+      "posY": 0,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm35",
+      "posX": 150,
+      "posY": 150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm36",
+      "posX": 150,
+      "posY": 300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm37",
+      "posX": 150,
+      "posY": 450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm38",
+      "posX": 150,
+      "posY": 600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm39",
+      "posX": 150,
+      "posY": 750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm40",
+      "posX": 150,
+      "posY": 1050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm41",
+      "posX": 150,
+      "posY": 1200,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm42",
+      "posX": 150,
+      "posY": 1350,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm43",
+      "posX": 150,
+      "posY": 1500,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm44",
+      "posX": 150,
+      "posY": 1650,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm45",
+      "posX": 150,
+      "posY": 1800,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm46",
+      "posX": 150,
+      "posY": 1950,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm47",
+      "posX": 150,
+      "posY": 2100,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm48",
+      "posX": 150,
+      "posY": 2250,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm49",
+      "posX": 150,
+      "posY": 2400,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm50",
+      "posX": 150,
+      "posY": 2700,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm51",
+      "posX": 150,
+      "posY": 2850,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm52",
+      "posX": 150,
+      "posY": 3000,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm53",
+      "posX": 150,
+      "posY": 3150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm54",
+      "posX": 150,
+      "posY": 3300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm55",
+      "posX": 150,
+      "posY": 3450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm56",
+      "posX": 150,
+      "posY": 3600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm57",
+      "posX": 150,
+      "posY": 3750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm58",
+      "posX": 150,
+      "posY": 3900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm59",
+      "posX": 150,
+      "posY": 4050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm60",
+      "posX": 300,
+      "posY": 150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm61",
+      "posX": 300,
+      "posY": 300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm62",
+      "posX": 300,
+      "posY": 450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm63",
+      "posX": 300,
+      "posY": 600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm64",
+      "posX": 300,
+      "posY": 750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm65",
+      "posX": 300,
+      "posY": 900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm66",
+      "posX": 300,
+      "posY": 1050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm67",
+      "posX": 300,
+      "posY": 1200,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm68",
+      "posX": 300,
+      "posY": 1350,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm69",
+      "posX": 300,
+      "posY": 1500,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm70",
+      "posX": 300,
+      "posY": 1800,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm71",
+      "posX": 300,
+      "posY": 1950,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm72",
+      "posX": 300,
+      "posY": 2100,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm73",
+      "posX": 300,
+      "posY": 2250,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm74",
+      "posX": 300,
+      "posY": 2400,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm75",
+      "posX": 300,
+      "posY": 2550,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm76",
+      "posX": 300,
+      "posY": 2700,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm77",
+      "posX": 300,
+      "posY": 2850,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm78",
+      "posX": 300,
+      "posY": 3000,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm79",
+      "posX": 300,
+      "posY": 3150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm80",
+      "posX": 300,
+      "posY": 3450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm81",
+      "posX": 300,
+      "posY": 3600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm82",
+      "posX": 300,
+      "posY": 3750,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm83",
+      "posX": 300,
+      "posY": 3900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm84",
+      "posX": 300,
+      "posY": 4050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm85",
+      "posX": 450,
+      "posY": 0,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm86",
+      "posX": 450,
+      "posY": 150,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm87",
+      "posX": 450,
+      "posY": 300,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm88",
+      "posX": 450,
+      "posY": 450,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm89",
+      "posX": 450,
+      "posY": 600,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/_a_frm90",
+      "posX": 450,
+      "posY": 900,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/top_1_150x150",
+      "posX": 450,
+      "posY": 1050,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/top_2_150x150",
+      "posX": 450,
+      "posY": 1200,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/top_3_150x150",
+      "posX": 450,
+      "posY": 1350,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "rui/loybadges/vip_150x150",
+      "posX": 450,
+      "posY": 1500,
+      "width": 150,
+      "height": 150
+    }
+  ]
+}
