@@ -1228,20 +1228,6 @@
 			  "height": 1440
 			},
 			{
-			  "path": "rui/pilot_loadout/mods/sniper_mag",
-			  "posX": 697,
-			  "posY": 2803,
-			  "width": 135,
-			  "height": 99
-			},
-			{
-			  "path": "rui/pilot_loadout/mods/empty_mag_sniper",
-			  "posX": 925,
-			  "posY": 2782,
-			  "width": 135,
-			  "height": 99
-			},
-			{
 			  "path": "rui/gamemodes/oitc/SlotBG",
 			  "posX": 355,
 			  "posY": 5,
