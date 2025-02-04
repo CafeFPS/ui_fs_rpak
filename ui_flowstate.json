@@ -5,7 +5,7 @@
   "assetsDir": ".\\assets\\",
   "outputDir": ".\\build\\",
 
-  "compressLevel": 19,
+  "compressLevel": 6,
   "compressWorkers": 16,
 
   "name": "ui_fs",
@@ -839,13 +839,6 @@
 			  "path": "rui/hud/gametype_icons/survival/sur_ammo_lstar",
 			  "posX": 2384,
 			  "posY": 2349,
-			  "width": 170,
-			  "height": 153
-			},
-			{
-			  "path": "rui/hud/gametype_icons/survival/sur_ammo_kraber",
-			  "posX": 2584,
-			  "posY": 2348,
 			  "width": 170,
 			  "height": 153
 			},
