@@ -58,6 +58,10 @@
 		{
             "_type": "dtbl",
             "_path": "datatable/fs_spawns_fs_realistic_ttv_mp_rr_desertlands_64k_x_64k_set_1.rpak"
+        },
+		{
+            "_type": "dtbl",
+            "_path": "datatable/fs_spawns_fs_scenarios_mp_rr_desertlands_64k_x_64k_set_3.rpak"
         }
     ]
 }
