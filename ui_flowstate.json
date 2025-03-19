@@ -577,6 +577,55 @@
 		  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods.rpak",
 		  "images": [
 			{
+				"path": "rui/menu/common/gradient_blue",
+				  "posX": 2109,
+				  "posY": 3044,
+				  "width": 250,
+				  "height": 45
+			},
+			{
+				"path": "rui/menu/common/gradient_red",
+				  "posX": 2108,
+				  "posY": 3105,
+				  "width": 250,
+				  "height": 45
+			},
+			{
+				"path": "rui/menu/common/hint_icon",
+				  "posX": 0,
+				  "posY": 0,
+				  "width": 1,
+				  "height": 1
+			},
+			{
+				"path": "rui/flowstate_custom/footstep_border",
+				  "posX": 1920,
+				  "posY": 17,
+				  "width": 73,
+				  "height": 17
+			},
+			{
+				"path": "rui/flowstate_custom/footstep_border_yellow",
+				  "posX": 1920,
+				  "posY": 17,
+				  "width": 73,
+				  "height": 17
+			},
+			{
+				"path": "rui/flowstate_custom/footstep",
+				  "posX": 8048,
+				  "posY": 174,
+				  "width": 119,
+				  "height": 117
+			},
+			{
+				"path": "rui/flowstate_custom/gunfire",
+				  "posX": 7885,
+				  "posY": 178,
+				  "width": 120,
+				  "height": 120
+			},
+			{
 				"path": "rui/flowstate_custom/recordinganim",
 				  "posX": 7331,
 				  "posY": 406,
@@ -1078,6 +1127,13 @@
 			  "posX": 910,
 			  "posY": 2490,
 			  "width":50,
+			  "height": 51
+			},
+			{
+			  "path": "rui/flowstatecustom/C_Defend",
+			  "posX": 970,
+			  "posY": 2491,
+			  "width": 50,
 			  "height": 51
 			},
 			{
