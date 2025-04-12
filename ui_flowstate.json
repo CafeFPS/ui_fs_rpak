@@ -1137,6 +1137,13 @@
 			  "height": 51
 			},
 			{
+			  "path": "rui/flowstatecustom/C_Attack",
+			  "posX": 1029,
+			  "posY": 2491,
+			  "width": 50,
+			  "height": 51
+			},
+			{
 			  "path": "rui/flowstatecustom/tf2_bomb",
 			  "posX": 1227,
 			  "posY": 2581,
