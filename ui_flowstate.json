@@ -13,20 +13,6 @@
   "files": [
 		{
 		  "_type": "uimg",
-		  "_path": "flowstate_s0_title_art",
-		  "atlas": "texture/flowstate_s0_title_art.rpak",
-			"images": [
-			  {
-				"path": "ui/menu/title_screen/title_art2",
-				"posX": 0,
-				"posY": 0,
-				"width": 3524,
-				"height": 2160
-			  }
-			]
-		},	  
-		{
-		  "_type": "uimg",
 		  "_path": "flowstatelocations",
 		  "atlas": "texture/flowstatelocations.rpak",
 			"images": [
