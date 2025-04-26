@@ -13,6 +13,111 @@
   "files": [
 		{
 		  "_type": "uimg",
+		  "_path": "ui_image_atlas/rui/pilot_loadout/mods_3",
+		  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods_3.rpak",
+		  "images": [
+			{
+			  "path": "rui/flowstate_custom/abilities_cleanup",
+			  "posX": 1582,
+			  "posY": 7,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_heal_out_of_combat",
+			  "posX": 3,
+			  "posY": 3,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_proximity_mine",
+			  "posX": 3,
+			  "posY": 521,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_autocloak",
+			  "posX": 3,
+			  "posY": 1039,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/camera_satchel",
+			  "posX": 3,
+			  "posY": 1557,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_cloak",
+			  "posX": 3,
+			  "posY": 2075,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_electric_smoke",
+			  "posX": 3,
+			  "posY": 2593,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_fastheal",
+			  "posX": 521,
+			  "posY": 3,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_flashbang",
+			  "posX": 521,
+			  "posY": 521,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_kill_from_behind",
+			  "posX": 521,
+			  "posY": 1039,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_nofootsteps",
+			  "posX": 521,
+			  "posY": 1557,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_pulse_blade",
+			  "posX": 521,
+			  "posY": 2075,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_smoke_grenade",
+			  "posX": 521,
+			  "posY": 2593,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/ability_void_dash",
+			  "posX": 1039,
+			  "posY": 3,
+			  "width": 512,
+			  "height": 512
+			}
+			]
+		},
+		{
+		  "_type": "uimg",
 		  "_path": "flowstatelocations",
 		  "atlas": "texture/flowstatelocations.rpak",
 			"images": [
@@ -562,6 +667,27 @@
 		  "_path": "ui_image_atlas/rui/pilot_loadout/mods",
 		  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods.rpak",
 		  "images": [
+			{
+				"path": "rui/flowstate_custom/ability_circle",
+				  "posX": 7457,
+				  "posY": 1925,
+				  "width": 100,
+				  "height": 100
+			},
+			{
+				"path": "rui/flowstate_custom/gadgets_empty",
+				  "posX": 6794,
+				  "posY": 1925,
+				  "width": 300,
+				  "height": 229
+			},
+			{
+				"path": "rui/flowstate_custom/gadgets_filled",
+				  "posX": 7130,
+				  "posY": 1925,
+				  "width": 300,
+				  "height": 229
+			},
 			{
 				"path": "rui/menu/common/gradient_blue",
 				  "posX": 2109,
