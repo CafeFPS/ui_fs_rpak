@@ -19,6 +19,10 @@
             "_type": "dtbl",
             "_path": "datatable/fs_spawns_fs_1v1_mp_rr_arena_composite_set_1.rpak"
         },
+        {
+            "_type": "dtbl",
+            "_path": "datatable/fs_spawns_fs_1v1_coaching_mp_rr_arena_composite_set_1.rpak"
+        },
 		{
             "_type": "dtbl",
             "_path": "datatable/fs_spawns_fs_1v1_mp_rr_canyonlands_64k_x_64k_set_1.rpak"

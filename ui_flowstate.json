@@ -17,6 +17,41 @@
 		  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods_3.rpak",
 		  "images": [
 			{
+			  "path": "rui/flowstate_custom/devices_jammer",
+			  "posX": 4004,
+			  "posY": 21,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/rev_shel",
+			  "posX": 2691,
+			  "posY": 21,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/turret",
+			  "posX": 3287,
+			  "posY": 37,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passive_fortified",
+			  "posX": 2101,
+			  "posY": 1,
+			  "width": 512,
+			  "height": 512
+			},
+			{
+			  "path": "rui/flowstate_custom/passives_border",
+			  "posX": 1113,
+			  "posY": 576,
+			  "width": 264,
+			  "height": 81
+			},
+			{
 			  "path": "rui/flowstate_custom/abilities_cleanup",
 			  "posX": 1582,
 			  "posY": 7,
