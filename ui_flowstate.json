@@ -703,6 +703,13 @@
 		  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods.rpak",
 		  "images": [
 			{
+				"path": "rui/flowstate_custom/1v1_timeremaining",
+				  "posX": 7301,
+				  "posY": 782,
+				  "width": 870,
+				  "height": 311
+			},
+			{
 				"path": "rui/flowstate_custom/ability_circle",
 				  "posX": 7457,
 				  "posY": 1925,
