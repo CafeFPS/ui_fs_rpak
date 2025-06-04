@@ -5,8 +5,8 @@
   "assetsDir": ".\\assets\\",
   "outputDir": ".\\build\\",
 
-  // "compressLevel": 6,
-  // "compressWorkers": 16,
+  "compressLevel": 6,
+  "compressWorkers": 16,
 
   "name": "ui_fs",
 
