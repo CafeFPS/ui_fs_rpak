@@ -17,6 +17,13 @@
 	  "atlas": "texture/ui_atlas/rui/pilot_loadout/mods_3.rpak",
 	  "images": [
 		{
+		  "path": "rui/flowstate_custom/sl_hackinprogress",
+		  "posX": 4676,
+		  "posY": 198,
+		  "width": 1536,
+		  "height": 271
+		},
+		{
 		  "path": "rui/flowstate_custom/devices_jammer",
 		  "posX": 4004,
 		  "posY": 21,
